@@ -1,0 +1,15 @@
+{
+  "name": "5.check-for-symmetry",
+  "version": "1.0.0",
+  "main": "isSymmetric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MTz",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.1",
+    "mocha": "^10.4.0"
+  },
+  "description": ""
+}
