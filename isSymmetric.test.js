@@ -1,4 +1,5 @@
 let {expect} = require(`chai`);
+
 let isSymmetric = require(`./isSymmetric.js`);
 
 describe(`isSymmetric`, ()=>{
